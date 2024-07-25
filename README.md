@@ -7,7 +7,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo. <br>
 * <a href = "https://chatgpt.com/"> ChatGPT </a>   <br>
 * <a href="https://elevenlabs.io/"> ElevenLabs</a> <br>
 
-Como foi feito? <br>
+:memo: Como foi feito? <br>
 * Roteiro gerado via chatgpt <br>
 * Audio gerado pela elevenLabs
  
