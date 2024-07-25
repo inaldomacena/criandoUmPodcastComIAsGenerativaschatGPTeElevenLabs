@@ -1,0 +1,20 @@
+titulo do podcast:
+A Magia do HTML: Feitiços e Dicas de Front End
+
+Roteiro do Podcast: A Magia do HTML - Feitiços e Dicas do Front-end
+
+[INTRODUÇÃO]
+
+Inaldo: E aí, galera nerd do front-end, tudo bem? Eu sou o Inaldo e bem-vindos a mais um episódio de "A Magia do HTML - Feitiços e Dicas do Front-end"! Hoje, vamos desvendar alguns segredos mágicos que todo iniciante no mundo do desenvolvimento web precisa saber. Então, peguem suas varinhas, ou melhor, seus teclados, e vamos começar essa jornada mágica pelo universo do HTML!
+
+[CURIOSIDADE 1]
+
+Inaldo: Para começar nossa aventura, vocês sabiam que o HTML não é uma linguagem de programação? Sim, é isso mesmo! O HTML, ou HyperText Markup Language, é uma linguagem de marcação. Ela é usada para estruturar o conteúdo da web, como texto, imagens e links. Pense no HTML como a fundação de uma casa – sem ele, não temos uma estrutura para trabalhar. Ah, e aqui vai um feitiço básico pra vocês: o famoso <h1>, que cria um título grande e chamativo na sua página. É como se fosse o "Expecto Patronum" do front-end, afastando qualquer design sem graça!
+
+[CURIOSIDADE 2]
+
+Inaldo: Agora, vamos falar sobre uma ferramenta mágica que todo front-ender deve ter no seu arsenal: o Visual Studio Code. Esse editor de código é super popular por ser leve, poderoso e cheio de extensões que ajudam no nosso dia a dia. Com ele, você pode personalizar sua área de trabalho, adicionar temas, e até usar extensões como o Live Server, que permite visualizar suas alterações em tempo real no navegador. É como ter uma varinha mágica que transforma o seu código em algo visual instantaneamente!
+
+[FINALIZAÇÃO]
+
+Inaldo: E é isso, pessoal! Espero que vocês tenham curtido essas dicas e curiosidades sobre o mundo do HTML e das ferramentas de front-end. Não se esqueçam de praticar esses feitiços em seus próprios projetos e continuar explorando o universo mágico do desenvolvimento web. Eu sou Inaldo e esse foi o CodeQuest dessa semana. Até a próxima, e que o código esteja com vocês!
