@@ -4,10 +4,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo. <br>
 
 Tecnologias utilizadas no projeto: <br>
-ChatGPT <br>
-ElevenLabs <br>
+* ChatGPT <br>
+* ElevenLabs <br>
 
 Como foi feito? <br>
-Roteiro gerado via chatgpt <br>
-Audio gerado pela elevenLabs
+* Roteiro gerado via chatgpt <br>
+* Audio gerado pela elevenLabs
  
