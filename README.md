@@ -6,7 +6,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo. <br>
 Tecnologias utilizadas no projeto: <br>
 ChatGPT <br>
 ElevenLabs <br>
-Como foi feito ? <br>
+Como foi feito? <br>
 Roteiro gerado via chatgpt <br>
 Audio gerado pela elevenLabs
  
